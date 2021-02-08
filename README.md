@@ -20,3 +20,6 @@ Filter the noise with convolution based filters using imfilter function (fspecia
 
 ## Result:
 ![snip2](https://user-images.githubusercontent.com/65900166/107266562-84602000-6a67-11eb-9f3e-2e372edbed4e.png)
+
+## Note:
+Check out report uploaded for intermediate results and analyses. 
